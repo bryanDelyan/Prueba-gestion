@@ -18,7 +18,7 @@
         <li class="blue-dirty">
             <a href="../Ticket/index.php">
                 <i class="fas fa-list-alt"></i>
-                <span class="lbl">Mis tickets</span>
+                <span class="lbl">Listar Solicitudes</span>
             </a>
         </li>
     </ul>
